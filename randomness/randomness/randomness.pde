@@ -1,6 +1,6 @@
 PFont arial;
 void setup(){
-  size(1000,1000);
+  size(1000,800);
   background(255);
   frameRate(2);
   arial=createFont("Arial Bold.ttf",200);
